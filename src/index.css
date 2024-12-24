@@ -1,0 +1,5 @@
+@import '../node_modules/bootstrap/dist/css/bootstrap-grid.min.css';
+
+*{
+  background-color: rgb(54, 54, 54);
+}
